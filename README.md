@@ -10,6 +10,7 @@
 - ⚡ Latest work: [DressApp](https://dressappiron.herokuapp.com/)
 
 - 📫 How to reach me **paniaguasanchezadrian@gmail.com**
+<a href="https://www.linkedin.com/in/adrian-paniagua/" target="blank"><img align="center" src="https://avatars3.githubusercontent.com/u/357098?v=4" alt="fennecdjay" height="30" width="30" /></a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=paniaguaadrian&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -38,6 +39,6 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/adrian-paniagua/" target="blank"><img align="center" src="https://avatars3.githubusercontent.com/u/357098?v=4" alt="fennecdjay" height="20" width="20" /></a>
+
 
 </p>
