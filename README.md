@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fennecdjay" alt="fennecdjay" /> </p>
 
-- 🔭 I’m currently graduate as a MERN Stack developer on [Ironhack](https://www.ironhack.com/en)
+- 🔭 I’m currently working on eCommerce and Social media style apps.
 
 - 🤔 I’m interested on MERN stack and Frontend.
 
