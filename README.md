@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fennecdjay" alt="fennecdjay" /> </p>
 
-- 🔭 I’m currently working on eCommerce and Social media style apps.
+- 🔭  I’m currently working on eCommerce and Social media style apps.
 
-- 🤔 I’m interested on MERN stack and Frontend.
+- 🤔  I’m interested on MERN stack and Frontend.
 
-- ⚡ Latest work: [IronPadel](https://ironpadel.herokuapp.com/)
+- ⚡  Latest work: [IronPadel](https://ironpadel.herokuapp.com/)
 
-- 📫 How to reach me **paniaguasanchezadrian@gmail.com**
+- 📫  How to reach me **paniaguasanchezadrian@gmail.com**
 <a href="https://www.linkedin.com/in/adrian-paniagua/" target="blank"><img align="center" src="https://avatars3.githubusercontent.com/u/357098?v=4" alt="fennecdjay" height="30" width="30" /></a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=paniaguaadrian&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
