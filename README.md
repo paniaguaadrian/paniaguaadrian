@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fennecdjay" alt="fennecdjay" /> </p>
 
-- 🔭  I’m currently working at Rimbo Rent as a Full Stack Developer.
+- 🔭  I’m currently working at [Rimbo Rent](https://rimbo.rent/en/) as a Full Stack Developer.
 
 - 🤔  I’m interested on MERN stack, Frontend and Cloud Computing.
 
