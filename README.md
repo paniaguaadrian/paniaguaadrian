@@ -5,9 +5,9 @@
 
 - 🔭  I’m currently working at [Rimbo Rent](https://rimbo.rent/en/) as a Full Stack Developer.
 
-- 🤔  I’m interested on MERN stack, Frontend and Cloud Computing.
+- 🤔  I’m interested on MERN stack and Blockchain.
 
-- ⚡  Latest work: [IronPadel](https://ironpadel.herokuapp.com/)
+- ⚡  Latest work on: [Rimbo Rent](https://rimbo.rent/)
 
 - 📫  How to reach me **paniaguasanchezadrian@gmail.com**
 <a href="https://www.linkedin.com/in/adrian-paniagua/" target="blank"><img align="center" src="https://avatars3.githubusercontent.com/u/357098?v=4" alt="fennecdjay" height="30" width="30" /></a>
