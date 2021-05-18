@@ -31,14 +31,14 @@
 
 
 <!-- </p> -->
+
+
+<p align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=paniaguaadrian&layout=compact&theme=dark&show_icons=true" alt="paniaguaadrian" />
 
 ## Language Usage ~ Status
 
 ![Top Langs](https://github-readme-stats.aemiej.vercel.app/api/top-langs/?username=paniaguaadrian&layout=compact&theme=dark&show_icons=true&hide_border=true&private=true)
-
-<p align="center">
-
-
 
 </p>
