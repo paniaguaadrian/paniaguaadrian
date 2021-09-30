@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adrian Paniagua</h1>
-<h3 align="center">A passionate Full Stack Web and Blockchain Developer from Barcelona, building Web2 and Web3 Applications.</h3>
+<h3 align="center">A passionate Full Stack Web and Blockchain Developer. Building Web2 and Web3 Applications.</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=fennecdjay" alt="fennecdjay" /> </p> -->
 
