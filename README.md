@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=fennecdjay" alt="fennecdjay" /> </p> -->
 
-- 🔭  I’m currently working at [Wesrom](https://www.wesrom.com/) as a Full Stack Developer.
+- 🔭  I’m currently working at [Travelport](https://www.travelport.com/) as a Full Stack Engineer.
 
 - 🤔  I’m interested on MERN stack and Blockchain.
 
