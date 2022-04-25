@@ -7,7 +7,7 @@
 
 - 🤔  I’m interested on MERN stack and Blockchain.
 
-- ⚡  Latest work on: [Rimbo Rent](https://rimbo.rent/)
+- ⚡  Latest work on: [Rimbo Rent](https://rimbo.rent/), [Wesrom Corporation](https://wesrom.com/)
 
 - 📫  How to reach me **paniaguasanchezadrian@gmail.com**
 <a href="https://www.linkedin.com/in/adrian-paniagua/" target="blank"><img align="center" src="https://avatars3.githubusercontent.com/u/357098?v=4" alt="fennecdjay" height="30" width="30" /></a>
